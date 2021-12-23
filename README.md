@@ -1,4 +1,4 @@
-# LinuxAssignment
+# Linux Assignment
 ----------------------------
 
 Shell Scripting Exercises
